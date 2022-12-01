@@ -1,0 +1,25 @@
+.container{
+    border: 1px solid black;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td{
+    padding: 5px;
+}
+
+button{
+    width: 80px;
+    height: 35px;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+.b1{
+    height: 25px;
+}
+
